@@ -1,0 +1,38 @@
+---
+| Functional Requirements | Complete? |
+| --- | :---: |
+| Movies can be clicked on to go to a detail page | YES |
+| Movie Detail Page displays movie image, title, description | YES |
+| Movie Detail Page displays all genres for this movie | YES |
+| Add Movie Page allows the movie title, image URL, description to be added | YES |
+| Add Movie Page allows user to select 1 genre | YES |
+| Add Movie POST/INSERT stores movie data | YES |
+| Add Movie POST/INSERT stores genre junction data | YES |
+| Sagas used for calls to server | YES |
+
+---
+### Notes:
+
+Notes on items above.
+
+---
+| General Items | Complete? |
+| --- | :---: |
+| More than 15 git commits | YES |
+| Code broken down into Components | YES |
+| Commits are descriptive of the changes made or feature added | YES |
+| Readme file updated | no |
+| Appropriate amount of code comments | YES |
+| Code is consistently formatted | YES |
+| Good use of Redux (where appropriate) | yes |
+---
+
+### Notes:
+
+David, as always, great job on the weekend challenge. The styling, functionality, the cleanliness of the code,
+and what struck me as most impressive was the efficient and effective use of your code comments.
+The hover over function on each indivudual movie, the details page and add movie component are all great. The only
+areas I noticed were the edit and search features. I was not able to see the edits off the genres I had made, nor making any 
+changes to the movie itself. Im sure with more time you will have these up and running no problem along with a detailed and informative readme.md. 
+
+But overall, great job man!

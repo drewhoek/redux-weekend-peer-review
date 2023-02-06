@@ -1,0 +1,37 @@
+-Phillipe-
+
+---
+| Functional Requirements | Complete? |
+| --- | :---: |
+| Movies can be clicked on to go to a detail page |x|
+| Movie Detail Page displays movie image, title, description | x | 
+| Movie Detail Page displays all genres for this movie | NO | 
+| Add Movie Page allows the movie title, image URL, description to be added | - | 
+| Add Movie Page allows user to select 1 genre | - | 
+| Add Movie POST/INSERT stores movie data | - | -
+| Add Movie POST/INSERT stores genre junction data | - | 
+| Sagas used for calls to server | x | 
+
+---
+### Notes:
+
+Notes on items above.
+
+Most basic funtionality works however there are a lot of styling issues including font color and buttons.
+
+---
+| General Items | Complete? |
+| --- | :---: |
+| More than 15 git commits | no |
+| Code broken down into Components | yes |
+| Commits are descriptive of the changes made or feature added | no |
+| Readme file updated | no | -remember to do the readme
+| Appropriate amount of code comments | no |
+| Code is consistently formatted | yes |
+| Good use of Redux (where appropriate) | yes |
+---
+
+### Notes:
+ Genre is not completed but as a student myself, i can see the effort that went into it.
+ I think having 2 movie deatils pages was a bit too much, you could have been fine with one.
+ As i stated previously the font is hard to read and there is a random irrelavent picture in there.

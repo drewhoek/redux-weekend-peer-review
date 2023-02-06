@@ -1,0 +1,37 @@
+---
+| Functional Requirements | Complete? |
+| --- | :---: |
+| Movies can be clicked on to go to a detail page | yes |
+| Movie Detail Page displays movie image, title, description | yes |
+| Movie Detail Page displays all genres for this movie | yes |
+| Add Movie Page allows the movie title, image URL, description to be added | yes |
+| Add Movie Page allows user to select 1 genre | yes |
+| Add Movie POST/INSERT stores movie data | yes |
+| Add Movie POST/INSERT stores genre junction data | yes |
+| Sagas used for calls to server | yes |
+
+---
+### Notes:
+
+Notes on items above.
+
+---
+| General Items | Complete? |
+| --- | :---: |
+| More than 15 git commits | no |
+| Code broken down into Components | yes |
+| Commits are descriptive of the changes made or feature added | yes |
+| Readme file updated | yes |
+| Appropriate amount of code comments | no |
+| Code is consistently formatted | yes |
+| Good use of Redux (where appropriate) | yes |
+---
+
+### Notes:
+Lee, you did a really fantastic job on this. All of the base stuff is there, and you added some really nice styling polish to the project. The site is functional and smooth!
+
+12 commits, just a bit under the 15 required. 
+
+I would also think about trying to incorporate more code comments. It will help ensure that you have a really clear idea of what each line is doing, and will also be useful if you ever go back to this project to add to it, or if you use it as a reference to build future projects.
+
+You killed it Lee! Great work!

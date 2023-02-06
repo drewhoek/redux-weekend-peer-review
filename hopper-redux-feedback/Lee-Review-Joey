@@ -1,0 +1,41 @@
+Hey Joey,
+
+General Feedback.
+
+---
+| Functional Requirements | Complete? |
+| Yes| 9:44am 10/03/2022
+| Multi page form with client side routing and navigation (next button) | yes |
+| Data stored in Redux when navigating from page to page | yes |
+| User is notified when trying to leave a blank score | yes |
+| Review Component displays scores and comments from current redux state | yes |
+| Submit button sends data to the server via Axios | yes |
+| Confirmaion Page displays after data is POSTed to the server | yes |
+| Button on Confirmation Page clears Redux and starts a new survey | yes |
+| Views are broken down into components | yes |
+
+---
+### Notes:
+
+Notes on the above Functional Requirements.
+
+---
+| General Items | Complete? |
+| Yes| :---: |
+| More than 15 git commits | yes |
+| Commits are descriptive of the changes made or feature added | yes |
+| Readme file updated | Yes |
+| Appropriate amount of code comments | yes |
+| Code is consistently formatted | yes |
+| Server code organized with router & module files | yes |
+
+---
+### Notes:
+
+Notes on General Items
+
+Nice work! Great job on the whole project. The layout for each page is easy to use (the radio buttons from 1-5 for the feelings, support, and understanding pages was a nice additional). The review feedback page displayed the client's response in a clear and succint way. client side axios and server side post requests are both working together correctly. feedback.router posts collected info to the postgress and you direct the client back to the beginning of the survery to complete again. 
+
+Very impressive. Nice work!
+
+

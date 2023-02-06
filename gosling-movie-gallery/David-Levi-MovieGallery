@@ -1,0 +1,54 @@
+-- Movies Page --
+
+Movie list is nice and organized. Each movie is clearly labeled. Can easily click on a movie to go to the details page.
+
+List even scales nicely for different browser sizes.
+
+-- Details Page --
+
+All genres are shown and the back to home button works. The page heiharchy makes sense for the most part. There is maybe some 
+redundant / unnecessary information, such as 'movie title' and 'movie description'. Both of these can be inferred by the user.
+There aree two forms at the bottom which seem like they are there for editing information on the movie. It is unclear how to
+confirm the changes.
+
+Although a little bare, this page has what it needs and also scales nicely for different browser sizes. 
+
+-- Add Form -- 
+
+I like this feature! When I added a movie it was displayed in the gallery which is cool! I was not able to click it and go to
+the details page however. 
+
+-- Styling --
+
+Overall the layout is not bad! Gets the job done. I would try to use less harsh colors. Maybe in the future think more 
+about the color pallette of the whole project.
+
+-David-
+
+---
+| Functional Requirements | Complete |
+| Movies can be clicked on to go to a detail page | √ |
+| Movie Detail Page displays movie image, title, description | √ | 
+| Movie Detail Page displays all genres for this movie | √ | 
+| Add Movie Page allows the movie title, image URL, description to be added | x | 
+| Add Movie Page allows user to select 1 genre | √ | 
+| Add Movie POST/INSERT stores movie data | √ | -
+| Add Movie POST/INSERT stores genre junction data | √ | 
+| Sagas used for calls to server | √ | 
+
+---
+### Notes:
+
+Notes on items above.
+
+---
+| General Items | Complete? |
+| --- | :---: |
+| More than 15 git commits | x |
+| Code broken down into Components | √ |
+| Commits are descriptive of the changes made or feature added | √ |
+| Readme file updated | x | 
+| Appropriate amount of code comments | x |
+| Code is consistently formatted | √ |
+| Good use of Redux (where appropriate) | √ |
+---

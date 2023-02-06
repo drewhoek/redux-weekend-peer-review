@@ -1,0 +1,40 @@
+Hey Tre,
+
+General Feedback.
+
+---
+| Functional Requirements | Complete? |
+| Yes| 11:00am |2/8/21
+| Multi page form with client side routing and navigation (next button) | yes |
+| Data stored in Redux when navigating from page to page | yes |
+| User is notified when trying to leave a blank score | no |
+| Review Component displays scores and comments from current redux state | yes |
+| Submit button sends data to the server via Axios | yes |
+| Confirmaion Page displays after data is POSTed to the server | yes |
+| Button on Confirmation Page clears Redux and starts a new survey | yes/no |
+| Views are broken down into components | yes |
+
+---
+### Notes:
+
+Notes on the above Functional Requirements.
+
+---
+| General Items | Complete? |
+| Yes| :---: |
+| More than 15 git commits | no |
+| Commits are descriptive of the changes made or feature added | yes |
+| Readme file updated | Yes |
+| Appropriate amount of code comments | no |
+| Code is consistently formatted | yes |
+| Server code organized with router & module files | yes |
+
+---
+### Notes:
+
+Notes on General Items
+
+Nice work. I really liked how the inline functions create clean and easy to understand code. Your formatting was done well and the project looked clean. You certainly know what you're doing and understand the material well. A couple quick notes, I didn't see any validation, except the alert which wasn't firing for me when I submitted empty values. I was also able to enter values below and equal to zero, as well as numbers higher than five. When I submitted empty values the review form still had the previous answers. Your console log on the comments page also logs every key stroke, which if fine, it just makes for a lot of scrolling when trying to go back and inspect things on the browser, which, I'm sure you know ha. You did a great job, everything was  
+organized and well thought out. Keep up the great work.
+
+

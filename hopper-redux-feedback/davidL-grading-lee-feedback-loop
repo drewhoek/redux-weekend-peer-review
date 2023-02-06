@@ -1,0 +1,61 @@
+Hey Lee,
+
+General Feedback.
+
+---
+| Functional Requirements | Complete? |
+| --- | :---: |
+| Multi page form with client side routing and navigation (next button) | yes |
+| Data stored in Redux when navigating from page to page | yes |
+| User is notified when trying to leave a blank score | no |
+| Review Component displays scores and comments from current redux state | yes |
+| Submit button sends data to the server via Axios | yes |
+| Confirmaion Page displays after data is POSTed to the server | yes |
+| Button on Confirmation Page clears Redux and starts a new survey | no |
+| Views are broken down into components | yes |
+
+---
+### Notes:
+
+Notes on the above Functional Requirements.
+
+---
+| General Items | Complete? |
+| --- | :---: |
+| More than 15 git commits | no |
+| Commits are descriptive of the changes made or feature added | yes |
+| Readme file updated | no |
+| Appropriate amount of code comments | no |
+| Code is consistently formatted | yes |
+| Server code organized with router & module files | yes |
+
+---
+### Notes:
+
+Notes on General Items
+
+- Not trying to be nitpicky I apologize in advance if any feedback seems to be that way.
+
+- For the submit button, it does send data to server but also dispatches CLEAR_FEEDBACK 
+where the Leave New Feedback button should be the one dispatching but the Leave New Feedback 
+button still brings you back to the start.
+
+- Definitely could use more code comments, something that helps me is using comments to 
+describe what I am doing with the code to better understand it.
+
+- The README needs to be updated
+
+- I like your button styling, a neat tip is in the css try putting cursor: pointer; for your buttons
+and that will change the cursor style when interacting with the buttons.
+
+- The inputs look awesome, way better than the basic input styling! Love the underlines!
+
+- Input validation would be a beneficial feature, I noticed I do not have to type anything in on any part of the 
+form to proceed to the next page. For your number inputs maybe try checking if the value is not "" or empty.
+
+- I noticed a few functions that are not being used, ie. In Comments.js the handleComment function on line 13. 
+I would go back and clear out code that is not being used to make things neater. Although I do see that function 
+has an alert so it could be used in input data validation.
+
+- You definitely have the concepts down just looks like there is a bit of patchwork to be done.
+

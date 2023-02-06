@@ -1,0 +1,30 @@
+
+
+| Functional Requirements | Complete? |
+| --- | :---: |
+| Junction table created to store genres per movie | yes |
+| Initial Display shows all movies in a list | yes |
+| Initial Display shows all movie titles, descriptions, and images | yes |
+| Movies can be clicked on to go to their detail page | yes |
+| Movie Detail Page displays movie image, title, description | yes |
+| Movie Detail Page displays all genres for this movie | no |
+| Add Movie Page allows the movie title, image ulr, description to be added | yes |
+| Add Movie POST/INSERT stores movie data | yes |
+| Add Movie POST/INSERT stores genre junction data | no |
+| Sagas used for calls to server | yes |
+---
+### Notes:
+Notes on items above.
+---
+| General Items | Complete? |
+| --- | :---: |
+| More than 15 git commits | yes |
+| Updated SQL file with junction table name, schema, inserts | yes |
+| Code broken down into Components | yes |
+| Commits are descriptive of the changes made or feature added | yes |
+| Readme file updated | yes |
+| Appropriate amount of code comments | yes |
+| Code is consistently formatted | yes |
+| Good use of Redux (where appropriate) | yes |
+---
+### Notes:
